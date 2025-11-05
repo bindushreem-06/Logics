@@ -1,5 +1,4 @@
-package Logics;
-import java.util.Scanner;
+package LogicsPractice;
 
 public class LettersThenDigits {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Logics;
+package LogicsPractice;
 
 public class ReverseAndPalindromicString {
     public static void main(String[] args) {

@@ -11,8 +11,8 @@ public class ToRemoveDuplicate {
 //         Using Collections
         System.out.println(Arrays.toString(a));
         Set<Integer> s = new LinkedHashSet<>();
-        for(int i =0; i<a.length; i++){
-            s.add(a[i]);
+        for (int j : a) {
+            s.add(j);
         }
         System.out.println(s);
 
