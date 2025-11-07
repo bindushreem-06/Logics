@@ -1,5 +1,8 @@
 package Strings;
 
+import java.io.FileNotFoundException;
+import java.sql.SQLException;
+
 public class RotationofString {
     public static void main(String[] args) {
         String s1 = "ABCD";

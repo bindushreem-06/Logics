@@ -11,7 +11,7 @@ public class CountVowelsConsonants {
         // to replace non-alphabets
         str = str.replaceAll("[^a-z]","");
 
-        String vowels = str.replaceAll("[^aeiou]","");
+        String vowels = str.replaceAll("[^aeiou0]","");
 
         String consonants = str.replaceAll("[aeiou]","");
 
